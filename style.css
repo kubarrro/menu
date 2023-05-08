@@ -1,5 +1,8 @@
 @media(max-width:500px){
-
+        svg{
+        width: 100px;
+        height:100px
+    }
 }
 
 
